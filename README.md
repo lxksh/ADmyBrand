@@ -116,13 +116,5 @@ AI tools (such as Copilot, v0.dev, GPT, and Figma AI plugins) were used for:
 - **Blog/Resources support (optional route)**
 
 
-## 🛡️ License
-
-MIT — free to use and modify for personal or commercial projects.
-
-## ✉️ Support \& Contact
-
-For customizations or support, file an issue or contact the repository maintainer.
-
 **ADmyBRAND AI Suite** — Revolutionizing omnichannel marketing with the power of AI, analytics, and seamless user experience.
 
